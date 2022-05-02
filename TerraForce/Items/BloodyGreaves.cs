@@ -14,8 +14,8 @@ namespace TerraForce.Items
         }
 
         public override void SetDefaults() {
-            item.width = 18;
-            item.height = 14;
+            item.width = 22;
+            item.height = 20;
             item.value = 40;
             item.rare = 2;
             item.defense = 2;
